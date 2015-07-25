@@ -34,5 +34,5 @@ Read more on the cleaned up dataset in the CodeBook.md file. This file describes
 # R packages you probably need
 
 - utils
-- dplyr
-- utils
+- data.table
+- rehsape2
